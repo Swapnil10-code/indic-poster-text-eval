@@ -1,0 +1,154 @@
+rater,shop_owner,prompt,lang,tier,model,label,text,post,audit,agree
+R01,No,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R01,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Small mistakes,Yes,Exactly correct,False
+R01,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Exactly correct,Yes,Wrong / unreadable,False
+R01,No,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R01,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Exactly correct,Yes,Wrong / unreadable,False
+R01,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R01,No,P03,Hindi,Hard,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R01,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Small mistakes,No,Exactly correct,False
+R01,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Exactly correct,Yes,Wrong / unreadable,False
+R02,No,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R02,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R02,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Small mistakes,No,Wrong / unreadable,False
+R02,No,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R02,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Small mistakes,No,Wrong / unreadable,False
+R02,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,No,Exactly correct,True
+R02,No,P03,Hindi,Hard,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R02,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R02,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Exactly correct,No,Wrong / unreadable,False
+R02,No,P05,Bengali,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R02,No,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R02,No,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R02,No,P06,Bengali,Medium,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R02,No,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R02,No,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R02,No,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Wrong / unreadable,No,Wrong / unreadable,True
+R02,No,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R02,No,P07,Bengali,Hard,GPT Image 1,Poster C,Small mistakes,No,Small mistakes,True
+R04,Yes,P01,Hindi,Easy,GPT Image 1,Poster A,Wrong / unreadable,No,Exactly correct,False
+R04,Yes,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Small mistakes,Yes,Exactly correct,False
+R04,Yes,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Small mistakes,Yes,Wrong / unreadable,False
+R04,Yes,P02,Hindi,Medium,GPT Image 1,Poster A,Small mistakes,Yes,Exactly correct,False
+R04,Yes,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Small mistakes,Yes,Wrong / unreadable,False
+R04,Yes,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Small mistakes,Yes,Exactly correct,False
+R04,Yes,P03,Hindi,Hard,GPT Image 1,Poster A,Exactly correct,Yes,Small mistakes,False
+R04,Yes,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R04,Yes,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Exactly correct,Yes,Wrong / unreadable,False
+R04,Yes,P05,Bengali,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R04,Yes,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R04,Yes,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R04,Yes,P06,Bengali,Medium,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R04,Yes,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R04,Yes,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R04,Yes,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Wrong / unreadable,No,Wrong / unreadable,True
+R04,Yes,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R04,Yes,P07,Bengali,Hard,GPT Image 1,Poster C,Small mistakes,No,Small mistakes,True
+R05,No,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R05,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R05,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Exactly correct,Yes,Wrong / unreadable,False
+R05,No,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R05,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Small mistakes,No,Wrong / unreadable,False
+R05,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,No,Exactly correct,True
+R05,No,P03,Hindi,Hard,GPT Image 1,Poster A,Exactly correct,No,Small mistakes,False
+R05,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R05,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Exactly correct,Yes,Wrong / unreadable,False
+R05,No,P05,Bengali,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R05,No,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Exactly correct,Yes,Wrong / unreadable,False
+R05,No,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,No,Exactly correct,True
+R05,No,P06,Bengali,Medium,GPT Image 1,Poster A,Exactly correct,No,Small mistakes,False
+R05,No,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R05,No,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R05,No,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Wrong / unreadable,No,Wrong / unreadable,True
+R05,No,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R05,No,P07,Bengali,Hard,GPT Image 1,Poster C,Exactly correct,Yes,Small mistakes,False
+R06,No,P05,Bengali,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R06,No,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R06,No,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R06,No,P06,Bengali,Medium,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R06,No,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R06,No,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R06,No,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Wrong / unreadable,No,Wrong / unreadable,True
+R06,No,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R06,No,P07,Bengali,Hard,GPT Image 1,Poster C,Exactly correct,No,Small mistakes,False
+R07,No,P01,Hindi,Easy,GPT Image 1,Poster A,Small mistakes,No,Exactly correct,False
+R07,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R07,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R07,No,P02,Hindi,Medium,GPT Image 1,Poster A,Small mistakes,No,Exactly correct,False
+R07,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R07,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R07,No,P03,Hindi,Hard,GPT Image 1,Poster A,Small mistakes,Yes,Small mistakes,True
+R07,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R07,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R08,Yes,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R08,Yes,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R08,Yes,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R08,Yes,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R08,Yes,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Small mistakes,No,Wrong / unreadable,False
+R08,Yes,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,No,Exactly correct,True
+R08,Yes,P03,Hindi,Hard,GPT Image 1,Poster A,Exactly correct,Yes,Small mistakes,False
+R08,Yes,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R08,Yes,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R09,Yes,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R09,Yes,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R09,Yes,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R09,Yes,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R09,Yes,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Small mistakes,No,Wrong / unreadable,False
+R09,Yes,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R09,Yes,P03,Hindi,Hard,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R09,Yes,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R09,Yes,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R09,Yes,P05,Bengali,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R09,Yes,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R09,Yes,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Small mistakes,Yes,Exactly correct,False
+R09,Yes,P06,Bengali,Medium,GPT Image 1,Poster A,Exactly correct,No,Small mistakes,False
+R09,Yes,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R09,Yes,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Small mistakes,No,Wrong / unreadable,False
+R09,Yes,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Small mistakes,Yes,Wrong / unreadable,False
+R09,Yes,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R09,Yes,P07,Bengali,Hard,GPT Image 1,Poster C,Exactly correct,Yes,Small mistakes,False
+R10,No,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R10,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R10,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Exactly correct,Yes,Wrong / unreadable,False
+R10,No,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R10,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Exactly correct,No,Wrong / unreadable,False
+R10,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R10,No,P03,Hindi,Hard,GPT Image 1,Poster A,Exactly correct,No,Small mistakes,False
+R10,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R10,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Exactly correct,No,Wrong / unreadable,False
+R10,No,P05,Bengali,Easy,GPT Image 1,Poster A,Small mistakes,No,Exactly correct,False
+R10,No,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R10,No,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R10,No,P06,Bengali,Medium,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R10,No,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R10,No,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R10,No,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Wrong / unreadable,No,Wrong / unreadable,True
+R10,No,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R10,No,P07,Bengali,Hard,GPT Image 1,Poster C,Small mistakes,No,Small mistakes,True
+R11,No,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R11,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R11,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Small mistakes,No,Wrong / unreadable,False
+R11,No,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R11,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R11,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R11,No,P03,Hindi,Hard,GPT Image 1,Poster A,Exactly correct,Yes,Small mistakes,False
+R11,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R11,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P01,Hindi,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R12,No,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,No,Exactly correct,True
+R12,No,P01,Hindi,Easy,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P02,Hindi,Medium,GPT Image 1,Poster A,Exactly correct,No,Exactly correct,True
+R12,No,P02,Hindi,Medium,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R12,No,P03,Hindi,Hard,GPT Image 1,Poster A,Exactly correct,No,Small mistakes,False
+R12,No,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R12,No,P03,Hindi,Hard,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P05,Bengali,Easy,GPT Image 1,Poster A,Exactly correct,Yes,Exactly correct,True
+R12,No,P05,Bengali,Easy,Gemini 2.5 Flash Image,Poster B,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview,Poster C,Exactly correct,Yes,Exactly correct,True
+R12,No,P06,Bengali,Medium,GPT Image 1,Poster A,Small mistakes,No,Small mistakes,True
+R12,No,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R12,No,P06,Bengali,Medium,Gemini 2.5 Flash Image,Poster C,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P07,Bengali,Hard,Gemini 2.5 Flash Image,Poster A,Wrong / unreadable,No,Wrong / unreadable,True
+R12,No,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview,Poster B,Exactly correct,Yes,Exactly correct,True
+R12,No,P07,Bengali,Hard,GPT Image 1,Poster C,Small mistakes,No,Small mistakes,True

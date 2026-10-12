@@ -1,0 +1,18 @@
+P01 (Hindi, Easy)
+Create an image: A square promotional poster for a traditional sweet shop in Varanasi for Diwali. The poster must display exactly this text in Hindi (Devanagari script), spelled correctly: "शुभ दीपावली". Warm festive style with diyas and sweets. No other text.
+
+P02 (Hindi, Medium)
+Create an image: A square promotional poster for a saree shop in Lucknow for the festive season. The poster must display exactly this text in Hindi (Devanagari script), spelled correctly: "त्योहार की ख़ास पेशकश". Elegant style with colourful sarees. No other text.
+
+P03 (Hindi, Hard)
+Create an image: A square promotional poster for a small mobile repair shop in Patna. The poster must display exactly this text in Hindi (Devanagari script), spelled correctly, as two lines: "मोबाइल रिपेयर – सिर्फ़ ₹199 से शुरू" and "संपर्क करें: 98765 43210". Bold, modern style. No other text.
+
+P05 (Bengali, Easy)
+Create an image: A square promotional poster for a traditional sweet shop in Kolkata for Durga Puja. The poster must display exactly this text in Bengali script, spelled correctly: "শুভ শারদীয়া". Festive style with Durga Puja motifs and sweets. No other text.
+
+P06 (Bengali, Medium)
+Create an image: A square promotional poster for a saree shop in Kolkata for Durga Puja. The poster must display exactly this text in Bengali script, spelled correctly: "পুজোর বিশেষ ছাড়". Elegant style with colourful sarees. No other text.
+
+P07 (Bengali, Hard)
+Create an image: A square promotional poster for a small restaurant in Siliguri for Durga Puja. The poster must display exactly this text in Bengali script with Bengali numerals, spelled correctly: "পুজো স্পেশাল থালি – মাত্র ₹২৪৯". Appetising style showing a Bengali thali. No other text.
+

@@ -1,0 +1,52 @@
+rater,prompt,lang,tier,winner
+R01,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R01,P02,Hindi,Medium,Gemini 2.5 Flash Image
+R01,P03,Hindi,Hard,Gemini 2.5 Flash Image
+R02,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R02,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview
+R02,P03,Hindi,Hard,Gemini 2.5 Flash Image
+R02,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview
+R02,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R02,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview
+R04,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R04,P02,Hindi,Medium,GPT Image 1
+R04,P03,Hindi,Hard,Gemini 2.5 Flash Image
+R04,P05,Bengali,Easy,Gemini 2.5 Flash Image
+R04,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R04,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview
+R05,P01,Hindi,Easy,Gemini 2.5 Flash Image
+R05,P02,Hindi,Medium,Gemini 2.5 Flash Image
+R05,P03,Hindi,Hard,Gemini 2.5 Flash Image
+R05,P05,Bengali,Easy,Gemini 2.5 Flash Image
+R05,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R05,P07,Bengali,Hard,GPT Image 1
+R06,P05,Bengali,Easy,GPT Image 1
+R06,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R06,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview
+R07,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R07,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview
+R07,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview
+R08,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R08,P02,Hindi,Medium,GPT Image 1
+R08,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview
+R09,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R09,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview
+R09,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview
+R09,P05,Bengali,Easy,GPT Image 1
+R09,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R09,P07,Bengali,Hard,GPT Image 1
+R10,P01,Hindi,Easy,Gemini 2.5 Flash Image
+R10,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview
+R10,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview
+R10,P05,Bengali,Easy,Gemini 3.1 Flash Image Preview
+R10,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R10,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview
+R11,P01,Hindi,Easy,Gemini 3.1 Flash Image Preview
+R11,P02,Hindi,Medium,GPT Image 1
+R11,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview
+R12,P01,Hindi,Easy,GPT Image 1
+R12,P02,Hindi,Medium,Gemini 3.1 Flash Image Preview
+R12,P03,Hindi,Hard,Gemini 3.1 Flash Image Preview
+R12,P05,Bengali,Easy,GPT Image 1
+R12,P06,Bengali,Medium,Gemini 3.1 Flash Image Preview
+R12,P07,Bengali,Hard,Gemini 3.1 Flash Image Preview

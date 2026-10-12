@@ -1,0 +1,19 @@
+prompt_id,language,difficulty,label,company_model,file
+P01,Hindi,Easy,Poster A,OpenAI GPT Image 1,P01_gpt.png
+P01,Hindi,Easy,Poster B,Google Gemini 3.1 Flash Image Preview,P01_g31.png
+P01,Hindi,Easy,Poster C,Google Gemini 2.5 Flash Image,P01_g25.png
+P02,Hindi,Medium,Poster A,OpenAI GPT Image 1,P02_gpt.png
+P02,Hindi,Medium,Poster B,Google Gemini 2.5 Flash Image,P02_g25.png
+P02,Hindi,Medium,Poster C,Google Gemini 3.1 Flash Image Preview,P02_g31.png
+P03,Hindi,Hard,Poster A,OpenAI GPT Image 1,P03_gpt.png
+P03,Hindi,Hard,Poster B,Google Gemini 3.1 Flash Image Preview,P03_g31.png
+P03,Hindi,Hard,Poster C,Google Gemini 2.5 Flash Image,P03_g25.png
+P05,Bengali,Easy,Poster A,OpenAI GPT Image 1,P05_gpt.png
+P05,Bengali,Easy,Poster B,Google Gemini 2.5 Flash Image,P05_g25.png
+P05,Bengali,Easy,Poster C,Google Gemini 3.1 Flash Image Preview,P05_g31.png
+P06,Bengali,Medium,Poster A,OpenAI GPT Image 1,P06_gpt.png
+P06,Bengali,Medium,Poster B,Google Gemini 3.1 Flash Image Preview,P06_g31.png
+P06,Bengali,Medium,Poster C,Google Gemini 2.5 Flash Image,P06_g25.png
+P07,Bengali,Hard,Poster A,Google Gemini 2.5 Flash Image,P07_g25.png
+P07,Bengali,Hard,Poster B,Google Gemini 3.1 Flash Image Preview,P07_g31.png
+P07,Bengali,Hard,Poster C,OpenAI GPT Image 1,P07_gpt.png
