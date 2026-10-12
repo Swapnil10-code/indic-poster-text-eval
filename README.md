@@ -4,7 +4,7 @@ A small, end-to-end evaluation of text-to-image models for an Indian use case: a
 
 I designed the eval, generated the images, ran a blind study with 11 raters, checked every poster letter by letter, and built a prototype leaderboard and rating screen.
 
-**[Live dashboard](https://YOUR-GITHUB-USERNAME.github.io/indic-poster-text-eval/dashboard/)** · **[Full report (PDF)](docs/Full_Report.pdf)** · **[One-page summary (PDF)](docs/One_Page_Summary.pdf)**
+**[Live dashboard](https://swapnil10-code.github.io/indic-poster-text-eval/dashboard/)** · **[Full report (PDF)](docs/Full_Report.pdf)** · **[One-page summary (PDF)](docs/One_Page_Summary.pdf)**
 
 ![Share of ratings marked exactly correct, by script](assets/chart_exact_by_script.png)
 
